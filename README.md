@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Crypto Mining**
 
-- 📫 How to reach me **@mircont.05**
-
 - ⚡ fact : **The HERO of my own story**
 
 <h3 align="left">Connect with me:</h3>
