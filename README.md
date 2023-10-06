@@ -6,13 +6,12 @@
 
 - 💬 Ask me about **Crypto Mining**
 
-- 📫 How to reach me **gouffia05@gmail.com**
+- 📫 How to reach me **@mircont.05**
 
 - ⚡ fact : **The HERO of my own story**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mircont.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mircont.05" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdelaaddim-ettaki-bba243199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaaddim-ettaki" height="30" width="40" /></a>
 </p>
 
